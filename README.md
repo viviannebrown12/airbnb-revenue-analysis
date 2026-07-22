@@ -15,7 +15,13 @@ The project includes:
 - Model evaluation
 
 ---
+## Results
 
+- Best model: Random Forest
+- Mean Absolute Error (MAE): $86.04
+- RMSE: $129.63
+- R² Score: 0.466
+---
 ## Technologies Used
 
 - Python
